@@ -25,4 +25,4 @@ Once I had those new columns to my spreadsheet, I could associate the Lat/Lon va
 
  I also added clickable links at each church location. I used Microsoft Expression Web 2 to create the clickable locations. If a church had a website the church's cross icon went to that website. If we had no website but an email for the church, then the clickable cross linked to the email. Finally if we didn't have either a website or an email, the clickable link went to a google map location of the church. If you moused over a parish icon, a tooltip will pop up with the name of a parish and it's address.
 
-Try it out here: [Web Map](testwebmap/default.html)
+Try it out here: [Web Map](http://htmlpreview.github.io/?https://github.com/kleinjoshuaa/Central-PA-Church-Map/blob/master/testwebmap/default.html)
